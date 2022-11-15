@@ -7,7 +7,5 @@
 
 import Foundation
 
-print("Hello Me familia!")
-
-print("This change")
+print ("Okay I get it now")
 
