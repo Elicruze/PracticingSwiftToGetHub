@@ -7,5 +7,13 @@
 
 import Foundation
 
-print ("Okay I get it now")
+//This is just to practice making major changes to the repo
+
+class ServiceAnimals {
+    var animalList: (String, Int) = ("Peacock", 0)
+    
+    func addAnimal () {
+        
+    }
+}
 
