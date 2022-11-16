@@ -51,4 +51,5 @@ class Animals {
 }
 
 let getAnimal = Animals()
+
 getAnimal.addAni()
